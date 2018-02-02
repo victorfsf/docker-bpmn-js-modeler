@@ -1,0 +1,8 @@
+{
+  "name": "bpmn-js",
+  "version": "1.0.0",
+  "description": "BPMN 2.0 Modeler",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
